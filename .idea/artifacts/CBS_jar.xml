@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CBS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CBS_jar</output-path>
+    <root id="archive" name="CBS.jar">
+      <element id="module-output" name="CBS" />
+    </root>
+  </artifact>
+</component>
